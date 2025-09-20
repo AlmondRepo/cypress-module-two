@@ -1,1 +1,14 @@
 /node_modules
+
+-ch: Chore
+-ft: Feature
+-bg: Bugfix
+
+
+- Master/Main Branch: main
+- Development Branch: develop
+
+- Steve - feature/add-two-numbers
+- Jude - test/add-two-numbers
+- Peter
+- Mary
